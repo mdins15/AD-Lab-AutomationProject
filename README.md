@@ -56,7 +56,7 @@ This lab was built to **test and deploy Active Directory automation** and includ
 |-------------------------------------------|-----------------------------------------------------------|
 | `Create-ADUsersFromCSV.ps1`               | Bulk-creates users in AD from a CSV file. |
 | `Create-OU-and-Users-With-ErrorLogging.ps1` | Creates OUs and users with error handling and logging. |
-| `Create-OU-and-Users.ps1`                 | Creates Organizational Units (OUs) and users in AD. |
+
 
 ---
 
