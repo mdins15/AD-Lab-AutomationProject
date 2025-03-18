@@ -1,0 +1,29 @@
+2025-03-18 09:43:30 - OU 'employees' already exists.
+2025-03-18 09:43:31 - OU 'IT' already exists.
+2025-03-18 09:43:31 - OU 'HR' already exists.
+2025-03-18 09:43:31 - OU 'Finance' already exists.
+2025-03-18 09:43:31 - OU 'Disabled Users' already exists.
+2025-03-18 09:43:31 - OU: Domain Controllers - OU=Domain Controllers,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - OU: Employees - OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - OU: IT - OU=IT,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - OU: HR - OU=HR,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - OU: Finance - OU=Finance,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - OU: Disabled Users - OU=Disabled Users,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - Group 'IT-Admins' already exists.
+2025-03-18 09:43:31 - Group 'HR-Staff' already exists.
+2025-03-18 09:43:31 - Group 'Finance-Team' already exists.
+2025-03-18 09:43:31 - Group: IT-Admins - CN=IT-Admins,OU=IT,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - Group: HR-Staff - CN=HR-Staff,OU=HR,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - Group: Finance-Team - CN=Finance-Team,OU=Finance,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - User 'jdoe' already exists.
+2025-03-18 09:43:31 - User 'jsmith' already exists.
+2025-03-18 09:43:31 - User 'mjohnson' already exists.
+2025-03-18 09:43:31 - User 'jdoe' added to 'IT-Admins'.
+2025-03-18 09:43:31 - User 'jsmith' added to 'HR-Staff'.
+2025-03-18 09:43:31 - User 'mjohnson' added to 'Finance-Team'.
+2025-03-18 09:43:31 - User: John Doe - jdoe - CN=John Doe,OU=IT,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:31 - User: Jane Smith - jsmith - CN=Jane Smith,OU=HR,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:32 - User: Mike Johnson - mjohnson - CN=Mike Johnson,OU=Finance,OU=Employees,DC=DinsLabDomain,DC=local
+2025-03-18 09:43:32 - Account 'jdoe' enabled.
+2025-03-18 09:43:32 - Account 'jsmith' enabled.
+2025-03-18 09:43:32 - Account 'mjohnson' enabled.
